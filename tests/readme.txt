@@ -1,0 +1,1 @@
+This folder will contain all of JS files for unit testings.
